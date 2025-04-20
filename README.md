@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-My Github Stats: https://github.com/gojiplus/allstar/blob/main/stats.md
+My Github Stats: 
+
+Total Stars: 1642
+Total Forks: 431
+
+More at: https://github.com/gojiplus/allstar/blob/main/stats.md
 
 <!--
 **soodoku/soodoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
