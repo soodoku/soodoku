@@ -2,7 +2,7 @@
 
 My Github Stats: 
 
-Total Stars: 1644
+Total Stars: 1644  
 Total Forks: 431
 
 More at: https://github.com/gojiplus/allstar/blob/main/stats.md
