@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-My Github Stats: 
+[![Website](https://img.shields.io/badge/Website-brightgreen)](https://gsood.com)
 
-Total Stars: 1644  
-Total Forks: 431
-
-More at: https://github.com/gojiplus/allstar/blob/main/stats.md
+My Github Stats at at: https://github.com/gojiplus/allstar/blob/main/stats.md
 
 <!--
 **soodoku/soodoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
