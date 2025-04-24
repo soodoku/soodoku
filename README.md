@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![Website](https://img.shields.io/badge/Website-brightgreen)](https://gsood.com)
+[![Blog](https://img.shields.io/badge/Blog-brightgreen)](https://gojiberries.io)
+
 
 My Github Stats are at: https://github.com/gojiplus/allstar/blob/main/stats.md
 
