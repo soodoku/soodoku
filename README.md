@@ -1,5 +1,3 @@
-# gaurav
-
 [![Website](https://img.shields.io/badge/Website-gsood.com-4063D8?style=flat-square)](https://gsood.com)
 [![Blog](https://img.shields.io/badge/Blog-gojiberries.io-FF7043?style=flat-square)](https://gojiberries.io)
 [![Stats](https://img.shields.io/badge/Stats-GitHub-333333?style=flat-square&logo=github)](https://github.com/gojiplus/allstar/blob/main/stats.md)
