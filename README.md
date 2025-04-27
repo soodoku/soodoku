@@ -4,19 +4,6 @@
 [![Blog](https://img.shields.io/badge/Blog-gojiberries.io-FF7043?style=flat-square)](https://gojiberries.io)
 [![Stats](https://img.shields.io/badge/Stats-GitHub-333333?style=flat-square&logo=github)](https://github.com/gojiplus/allstar/blob/main/stats.md)
 
-# gaurav
-
-<table>
-<tr>
-<td> <a href="https://gsood.com"><img src="https://img.shields.io/badge/Website-gsood.com-4063D8?style=flat-square"></a> </td>
-<td> <a href="https://gojiberries.io"><img src="https://img.shields.io/badge/Blog-gojiberries.io-FF7043?style=flat-square"></a> </td>
-<td> <a href="https://github.com/gojiplus/allstar/blob/main/stats.md"><img src="https://img.shields.io/badge/Stats-GitHub-333333?style=flat-square&logo=github"></a> </td>
-</tr>
-</table>
-
----
-
-## Organizations
 
 | Organization | Focus |
 |:---|:---|
