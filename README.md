@@ -1,12 +1,10 @@
 # gaurav
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Website-gsood.com-0077B5?style=for-the-badge" alt="Website" />
-  <img src="https://img.shields.io/badge/Blog-gojiberries.io-FF4500?style=for-the-badge" alt="Blog" />
-  <img src="https://img.shields.io/badge/Stats-Github-181717?style=for-the-badge&logo=github" alt="GitHub Stats" />
-</div>
+[![Website](https://img.shields.io/badge/Website-gsood.com-0077B5?style=for-the-badge)](https://gsood.com)
+[![Blog](https://img.shields.io/badge/Blog-gojiberries.io-FF4500?style=for-the-badge)](https://gojiberries.io)
+[![Stats](https://img.shields.io/badge/Stats-Github-181717?style=for-the-badge&logo=github)](https://github.com/gojiplus/allstar/blob/main/stats.md)
 
-## 🔬 Research Organizations
+## Organizations
 
 ### [![Metascience](https://github.com/recite.png?size=20)](https://github.com/recite) &nbsp;[Metascience](https://github.com/recite)
 > *Improving scientific integrity and reproducibility*
