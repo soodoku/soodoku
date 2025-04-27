@@ -1,42 +1,51 @@
-## 
+# gaurav
 
-[Website](https://gsood.com)
-[Blog](https://gojiberries.io)
+<div align="center">
+  <img src="https://img.shields.io/badge/Website-gsood.com-0077B5?style=for-the-badge" alt="Website" />
+  <img src="https://img.shields.io/badge/Blog-gojiberries.io-FF4500?style=for-the-badge" alt="Blog" />
+  <img src="https://img.shields.io/badge/Stats-Github-181717?style=for-the-badge&logo=github" alt="GitHub Stats" />
+</div>
 
-[Github Stats](https://github.com/gojiplus/allstar/blob/main/stats.md)
+## 🔬 Research Organizations
 
-### Organizations
+### [![Metascience](https://github.com/recite.png?size=20)](https://github.com/recite) &nbsp;[Metascience](https://github.com/recite)
+> *Improving scientific integrity and reproducibility*
+* 🚩 Tools to flag retracted articles in your citations
+* 📊 Research on citation patterns of retracted publications
+* 🧮 Systems for counting software citations in replication files
 
-* [Metascience](https://github.com/recite)
-     * Tools to flag retracted articles you may have cited, research on how often retracted articles are cited, tools for counting citations to software from replication files, etc. 
+### [![Data for South Asia](https://github.com/in-rolls.png?size=20)](https://github.com/in-rolls/) &nbsp;[Data, Research, and Tools Focused on South Asia](https://github.com/in-rolls/)
+> *Democratizing access to critical data across the Indian subcontinent*
+* 🗳️ Parsed Electoral Rolls (~1B people)
+* 🏛️ Local Election datasets
+* 🔄 Hindi-English transliteration tools
+* 📊 Policy analysis (quotas in local elections, MNREGA)
 
-* [Data, Research, and Tools Focused on South Asia](https://github.com/in-rolls/)
-    * Parsed Electoral Rolls (~ 1B people), Local Elections, Transaction Level Ration Data, Transliterate Between Hindi and English, MNREGA, Impact of Quotas in Local Elections, etc.
+### [![Online Safety](https://github.com/themains.png?size=20)](https://github.com/themains) &nbsp;[Online Safety](https://github.com/themains)
+> *Advancing digital security and privacy research*
+* 🔍 Domain content classification tools
+* 🔐 Generative password models using real-world data
+* 🔒 Research on data breach patterns (including political figures)
+* 🕵️ Online privacy analysis frameworks
 
-* [Online Safety](https://github.com/themains)
-     * Tools to infer the type of content on a domain, a generative model for passwords using leaked password data, the frequency with which data is breached (including that of politicians), privacy online, etc.
+### [![Geosensing](https://github.com/geosensing.png?size=20)](https://github.com/geosensing) &nbsp;[Geographically Distributed Data Collection](https://github.com/geosensing)
+> *Innovative methods for spatial analysis and urban research*
+* 📍 Tools for random street point sampling
+* 🗺️ Optimal route planning algorithms
+* 📷 Google Street View analysis for infrastructure quality assessment
+* 👥 Computer vision algorithms for demographic analysis of public spaces
 
-* [Geographically Distributed Data Collection and Analysis](https://github.con/geosensing)
-     * Tools to randomly sample points from the streets, create optimal itineraries based on the points, using Google Street View to estimate the quality of public infrastructure and women on the streets, etc.
+### [![Names](https://github.com/appeler.png?size=20)](https://github.com/appeler) &nbsp;[Names](https://github.com/appeler)
+> *Advanced name analysis and ethnocultural inference*
+* 🧹 ML tools for name standardization and cleaning
+* 🔄 Name parsing algorithms
+* 🌍 Ethnicity inference from names using voter registration data
+* 🧠 Deep learning models for name classification
 
-* [Names](https://github.com/appeler)
-     * ML Tools to clean names, parse names, infer ethnicity from names (using voter registration data), etc.
+---
 
-
-
-
-
-<!--
-**soodoku/soodoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://gsood.com"><img src="https://img.shields.io/badge/Personal_Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Website" /></a>
+  <a href="https://gojiberries.io"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
+  <a href="https://github.com/gojiplus/allstar/blob/main/stats.md"><img src="https://img.shields.io/badge/GitHub_Stats-181717?style=for-the-badge&logo=github" alt="GitHub Stats" /></a>
+</div>
