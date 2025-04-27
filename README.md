@@ -1,6 +1,6 @@
-[![Website](https://img.shields.io/badge/Website-gsood.com-4063D8?style=flat-square)](https://gsood.com)
-[![Blog](https://img.shields.io/badge/Blog-gojiberries.io-FF7043?style=flat-square)](https://gojiberries.io)
-[![Stats](https://img.shields.io/badge/Stats-GitHub-333333?style=flat-square&logo=github)](https://github.com/gojiplus/allstar/blob/main/stats.md)
+[![Website](https://img.shields.io/badge/Website-gsood.com-4063D8?style=flat)](https://gsood.com)
+[![Blog](https://img.shields.io/badge/Blog-gojiberries.io-FF7043?style=flat)](https://gojiberries.io)
+[![Stats](https://img.shields.io/badge/Stats-GitHub-333333?style=flat&logo=github)](https://github.com/gojiplus/allstar/blob/main/stats.md)
 
 [![Metascience](https://github.com/recite.png?size=10)](https://github.com/recite) &nbsp;[Metascience](https://github.com/recite): Tools to flag retracted articles in citations, retracted publications, and software in replication files
 
