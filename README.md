@@ -8,6 +8,9 @@ Github Stats: https://github.com/gojiplus/allstar/blob/main/stats.md
 
 ### Organizations
 
+* [Metascience](https://github.com/recite)
+     * Tools to flag retracted articles you may have cited, research on how often retracted articles are cited, tools for counting citations to software from replication files, etc. 
+
 * [Data, Research, and Tools Focused on South Asia](https://github.com/in-rolls/)
     * Parsed Electoral Rolls (~ 1B people), Local Elections, Transaction Level Ration Data, Transliterate Between Hindi and English, MNREGA, Impact of Quotas in Local Elections, etc.
 
