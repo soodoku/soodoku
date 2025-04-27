@@ -12,10 +12,16 @@ Github Stats: https://github.com/gojiplus/allstar/blob/main/stats.md
     * Parsed Electoral Rolls (~ 1B people), Local Elections, Transaction Level Ration Data, Transliterate Between Hindi and English, MNREGA, Impact of Quotas in Local Elections, etc.
 
 * [Online Safety](https://github.com/themains)
-     * Ways to infer the type of content on a domain, a generative model for passwords using leaked password data, the frequency with which data is breached (including that of politicians), privacy online, etc.
+     * Tools to infer the type of content on a domain, a generative model for passwords using leaked password data, the frequency with which data is breached (including that of politicians), privacy online, etc.
+
+* [Geographically Distributed Data Collection and Analysis](https://github.con/geosensing)
+     * Tools to randomly sample points from the streets, create optimal itineraries based on the points, using Google Street View to estimate the quality of public infrastructure and women on the streets, etc.
+
+* [Names](https://github.com/appeler)
+     * ML Tools to clean names, parse names, infer ethnicity from names (using voter registration data), etc.
 
 
-   
+
 
 
 <!--
