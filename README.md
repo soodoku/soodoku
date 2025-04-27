@@ -9,8 +9,13 @@ Github Stats: https://github.com/gojiplus/allstar/blob/main/stats.md
 ### Organizations
 
 * [Data, Research, and Tools Focused on South Asia](https://github.com/in-rolls/)
-    * Electoral Rolls (~ 1B people), Local Elections, Transaction Level Ration Data, Transliterate Between Hindi and English, MNREGA, Impact of Quotas, etc.
-  
+    * Parsed Electoral Rolls (~ 1B people), Local Elections, Transaction Level Ration Data, Transliterate Between Hindi and English, MNREGA, Impact of Quotas in Local Elections, etc.
+
+* [Online Safety](https://github.com/themains)
+     * Ways to infer the type of content on a domain, a generative model for passwords using leaked password data, the frequency with which data is breached (including that of politicians), privacy online, etc.
+
+
+   
 
 
 <!--
