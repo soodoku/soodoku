@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/badge/Blog-brightgreen)](https://gojiberries.io)
 
 
-My Github Stats are at: https://github.com/gojiplus/allstar/blob/main/stats.md
+Github Stats: https://github.com/gojiplus/allstar/blob/main/stats.md
 
 <!--
 **soodoku/soodoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
