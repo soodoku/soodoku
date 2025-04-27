@@ -1,8 +1,9 @@
-[![Website](https://img.shields.io/badge/Website-brightgreen)](https://gsood.com)
-[![Blog](https://img.shields.io/badge/Blog-brightgreen)](https://gojiberries.io)
+## 
 
+[Website](https://gsood.com)
+[Blog](https://gojiberries.io)
 
-Github Stats: https://github.com/gojiplus/allstar/blob/main/stats.md
+[Github Stats](https://github.com/gojiplus/allstar/blob/main/stats.md)
 
 ### Organizations
 
