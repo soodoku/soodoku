@@ -1,6 +1,6 @@
 [![Website](https://img.shields.io/badge/Website-gsood.com-4063D8?style=flat)](https://gsood.com)
-[![Blog](https://img.shields.io/badge/Blog-gojiberries.io-4063D8?style=flat)](https://gojiberries.io)
-[![Stats](https://img.shields.io/badge/Stats-GitHub-333333?style=flat&logo=github)](https://github.com/gojiplus/allstar/blob/main/stats.md)
+[![Blog](https://img.shields.io/badge/Blog-gojiberries.io-5E4AE3?style=flat)](https://gojiberries.io)
+[![Stats](https://img.shields.io/badge/Stats-GitHub-3A3F58?style=flat&logo=github)](https://github.com/gojiplus/allstar/blob/main/stats.md)
 
 [![Metascience](https://github.com/recite.png?size=15)](https://github.com/recite) &nbsp;[Metascience](https://github.com/recite): Tools to flag retracted articles in citations, research on how often retracted articles or articles with major errors are approvingly cited, tools for counting how often software is used based on replication files
 
