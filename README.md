@@ -8,7 +8,7 @@
 
 [![Online Safety](https://github.com/themains.png?size=15)](https://github.com/themains) &nbsp;[Online Safety](https://github.com/themains):  Domain content classification tools, Generative password models using real-world data, Research on data breach patterns (including politicians), Online privacy analysis frameworks
 
-[![Geosensing](https://github.com/geosensing.png?size=15)](https://github.com/geosensing) &nbsp;[Geographically Distributed Data Collection](https://github.com/geosensing): Tools for random street point sampling, Optimal route planning algorithms, Google Street View analysis for infrastructure quality assessment, Computer vision algorithms for demographic analysis of public spaces
+[![Geosensing](https://github.com/geosensing.png?size=15)](https://github.com/geosensing) &nbsp;[Geographically Distributed Data Collection](https://github.com/geosensing): Tools for randomly sampling locations on streets, Heuristic route planning, Google Street View for assessing the quality of public infrastructure and demographics
 
 [![Names](https://github.com/appeler.png?size=15)](https://github.com/appeler) &nbsp;[Names](https://github.com/appeler): ML tools for name standardization and cleaning, Name parsing algorithms, Ethnicity inference from names using voter registration data, Deep learning models for name classification
 
