@@ -6,7 +6,7 @@
 
 [![Data for South Asia](https://github.com/in-rolls.png?size=15)](https://github.com/in-rolls/) &nbsp;[Data, Research, and Tools Focused on South Asia](https://github.com/in-rolls/): Parsed Electoral Rolls (~1B people), Local Election datasets with reservation status, Land records data, Ration data, Hindi-English transliteration tools, Effect of quotas in local elections, MNREGA
 
-[![Online Safety](https://github.com/themains.png?size=15)](https://github.com/themains) &nbsp;[Online Safety](https://github.com/themains):  Domain content classification tools, Generative password models using real-world data, Research on data breach patterns (including politicians), Online privacy analysis frameworks
+[![Online Safety](https://github.com/themains.png?size=15)](https://github.com/themains) &nbsp;[Online Safety](https://github.com/themains):  Domain content classification tools, Generative password models using real-world data, Research on data breach patterns (including politicians) and privacy
 
 [![Geosensing](https://github.com/geosensing.png?size=15)](https://github.com/geosensing) &nbsp;[Geographically Distributed Data Collection](https://github.com/geosensing): Tools for randomly sampling locations on streets, Heuristic route planning, Google Street View for assessing the quality of public infrastructure and demographics
 
