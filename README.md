@@ -2,7 +2,7 @@
 [![Blog](https://img.shields.io/badge/Blog-gojiberries.io-FF7043?style=flat)](https://gojiberries.io)
 [![Stats](https://img.shields.io/badge/Stats-GitHub-333333?style=flat&logo=github)](https://github.com/gojiplus/allstar/blob/main/stats.md)
 
-[![Metascience](https://github.com/recite.png?size=15)](https://github.com/recite) &nbsp;[Metascience](https://github.com/recite): Tools to flag retracted articles in citations, retracted publications, and software in replication files
+[![Metascience](https://github.com/recite.png?size=15)](https://github.com/recite) &nbsp;[Metascience](https://github.com/recite): Tools to flag retracted articles in citations, research on how often retracted articles or articles with major errors are approvingly cited, tools for counting how often software is used based on replication files
 
 [![Data for South Asia](https://github.com/in-rolls.png?size=15)](https://github.com/in-rolls/) &nbsp;[Data, Research, and Tools Focused on South Asia](https://github.com/in-rolls/): Parsed Electoral Rolls (~1B people), Local Election datasets, Hindi-English transliteration tools, Policy analysis (quotas in local elections, MNREGA)
 
