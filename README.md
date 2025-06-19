@@ -2,9 +2,11 @@
 [![Blog](https://img.shields.io/badge/Blog-gojiberries.io-7B2D26?style=flat)](https://gojiberries.io)
 [![Stats](https://img.shields.io/badge/Stats-GitHub-3A3F58?style=flat&logo=github)](https://github.com/gojiplus/allstar/blob/main/stats.md)
 
+[!Econometrics and Stats.](https://github.com/finite-sample.png?size=15)](https://github.com/finite-sample) &nbsp;[Econometrics and Stats.]([https://github.com/finite-sample](https://github.com/finite-sample)): Advanced Models for Calibration, Less Greedy Methods for Optimization, etc.
+
 [![Metascience](https://github.com/recite.png?size=15)](https://github.com/recite) &nbsp;[Metascience](https://github.com/recite): Tools to flag retracted articles in citations, research on how often retracted articles or articles with major errors are approvingly cited, tools for counting how often software is used based on replication files
 
-[![Data for South Asia](https://github.com/in-rolls.png?size=15)](https://github.com/in-rolls/) &nbsp;[Data, Research, and Tools Focused on South Asia](https://github.com/in-rolls/): Parsed Electoral Rolls (~1B people), Local Election datasets with reservation status, Land records data, Ration data, Hindi-English transliteration tools, Effect of quotas in local elections, MNREGA
+[![South Asia](https://github.com/in-rolls.png?size=15)](https://github.com/in-rolls/) &nbsp;[Data, Research, and Tools Focused on South Asia](https://github.com/in-rolls/): Parsed Electoral Rolls (~1B people), Local Election datasets with reservation status, Land records data, Ration data, Hindi-English transliteration tools, Effect of quotas in local elections, MNREGA
 
 [![Online Safety](https://github.com/themains.png?size=15)](https://github.com/themains) &nbsp;[Online Safety](https://github.com/themains):  Domain content classification tools, Generative password models using real-world data, Research on data breach patterns (including politicians) and privacy
 
