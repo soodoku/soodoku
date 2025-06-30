@@ -2,7 +2,7 @@
 [![Blog](https://img.shields.io/badge/Blog-gojiberries.io-7B2D26?style=flat)](https://gojiberries.io)
 [![Stats](https://img.shields.io/badge/Stats-GitHub-3A3F58?style=flat&logo=github)](https://github.com/gojiplus/allstar/blob/main/stats.md)
 
-[![Econometrics and Stats.](https://github.com/finite-sample.png?size=15)](https://github.com/finite-sample) &nbsp;[Econometrics and Stats.]([https://github.com/finite-sample): Advanced Models for Calibration, Less Greedy Methods for Optimization, etc.
+[![Econometrics and Stats.](https://github.com/finite-sample.png?size=15)](https://github.com/finite-sample) &nbsp;[Econometrics and Stats.](https://github.com/finite-sample): Advanced Models for Calibration, Less Greedy Methods for Optimization, etc.
 
 [![Metascience](https://github.com/recite.png?size=15)](https://github.com/recite) &nbsp;[Metascience](https://github.com/recite): Tools to flag retracted articles in citations, research on how often retracted articles or articles with major errors are approvingly cited, tools for counting how often software is used based on replication files
 
