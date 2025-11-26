@@ -16,4 +16,4 @@
 
 [![Cricket](https://github.com/outside-edge.png?size=15)](https://github.com/outside-edge) &nbsp;[Cricket](https://github.com/outside-edge): Win Above Replacement (WAR) metrics for cricketers, ELO ratings of teams, the impact of toss on winning, etc.
 
-[![Tools](https://github.com/gojiplus.png?size=15)](https://github.com/gojiplus) &nbsp;[Cricket](https://github.com/outside-edge): Tools for selecting random repositories from GH, Convenience Functions for joining to Life Tables, AI Assisted UI Testing, and Extract Stats Q/A from Tables With Provenance
+[![Tools](https://github.com/gojiplus.png?size=15)](https://github.com/gojiplus) &nbsp;[Tools](https://github.com/outside-edge): Tools for selecting random repositories from GH, Convenience Functions for joining to Life Tables, AI Assisted UI Testing, Extract Stats Q/A from Tables With Provenance, etc.
