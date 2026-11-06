@@ -1,6 +1,7 @@
 [![Website](https://img.shields.io/badge/Website-gsood.com-4063D8?style=flat)](https://gsood.com)
 [![Blog](https://img.shields.io/badge/Blog-gojiberries.io-7B2D26?style=flat)](https://gojiberries.io)
 [![Stats](https://img.shields.io/badge/Stats-GitHub-3A3F58?style=flat&logo=github)](https://github.com/gojiplus/allstar/blob/main/stats.md)
+[![Python and R package downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgojiplus%2Fpackage-tally%2Fmain%2Freports%2Fbadge.json&style=flat)](https://github.com/gojiplus/package-tally/blob/main/reports/latest.md)
 
 [![Econometrics and Stats.](https://github.com/finite-sample.png?size=15)](https://github.com/finite-sample) &nbsp;[Econometrics and Stats.](https://github.com/finite-sample): Advanced Models for Calibration, Less Greedy Methods for Optimization, Pareto-Improving ML, Methods for Increasing 'Stability,' etc.
 
